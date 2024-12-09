@@ -1,0 +1,5 @@
+{
+  "label": "Toto token",
+  "token": "{{token}}",
+  "scope": "devmode"
+}
