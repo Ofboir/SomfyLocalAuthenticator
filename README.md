@@ -1,7 +1,7 @@
 # [DEPRECATED] Somfy Local Authenticator
 
-> [!IMPORTANT]  
-> This repository is deprecated, as the authentication is now available directly in the app. Follow the steps [described here](https://github.com/Somfy-Developer/Somfy-TaHoma-Developer-Mode).
+> [!IMPORTANT] DEPRECATED
+> This repository is **deprecated**, as the authentication is now available directly in the app. Follow the steps [described here](https://github.com/Somfy-Developer/Somfy-TaHoma-Developer-Mode).
 
 This is a collection of scripts to help authenticate to Somfy Local API. It follows the steps [described here](https://github.com/Somfy-Developer/Somfy-TaHoma-Developer-Mode).
 
